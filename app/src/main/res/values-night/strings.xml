@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="title">[ Settings ]</string>
+    <string name="text_user">● USER</string>
+    <string name="text_thema">● THEMA</string>
+    <string name="text_select">● SELECT</string>
+    <string name="text_checkbox1" />
+    <string name="btn_save">SAVE</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_modify">MODIFY</string>
+    <string name="init_id">My ID</string>
+    <string name="text_radiobtn1">White</string>
+    <string name="text_radiobtn2">Dark</string>
+    <string name="text_radiobtn3">Blue</string>
+</resources>

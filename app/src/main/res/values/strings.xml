@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Exam_SimpleSettings</string>
+    <string name="title">[ Settings ]</string>
+    <string name="text_id">ID</string>
+    <string name="text_user">● USER</string>
+    <string name="text_thema">● THEMA</string>
+    <string name="text_select">● SELECT</string>
+    <string name="text_checkbox1">Auto Save</string>
+    <string name="text_checkbox2">Auto Connect Wifi</string>
+    <string name="btn_save">SAVE</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="btn_modify">Modify</string>
+    <string name="init_id">My ID</string>
+    <string name="text_radiobtn1">White</string>
+    <string name="text_radiobtn2">Dark</string>
+    <string name="text_radiobtn3">Blue</string>
+    <string name="text_noSave">Please select all value</string>
+</resources>
